@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["\/wfvw"]); }
+
+__d("VideoPlayerFallbackEvents",[],(function a(b,c,d,e,f,g){f.exports=Object.freeze({ENTER:"VideoPlayerFallbackEvents/enter",RECOVER:"VideoPlayerFallbackEvents/recover"})}),null);
+__d("VideoProjection",[],(function a(b,c,d,e,f,g){f.exports=Object.freeze({FLAT:"flat",EQUIRECTANGULAR:"equirectangular",CUBEMAP:"cubemap",UNPADDED_CUBEMAP:"unpadded_cubemap",UNPADDED_CUBESTRIP:"unpadded_cubestrip",OFFSET_CUBEMAP:"offset_cubemap",ROTATED_CUBEMAP:"rotated_cubemap",PYRAMID:"pyramid",STRETCHED_CUBEMAP:"stretched_cubemap",BARREL:"barrel",SINGLE_FISH_EYE:"single_fish_eye",CDS_BARREL:"cds_barrel",EQUIANGULAR_CUBEMAP:"equiangular_cubemap"})}),null);
